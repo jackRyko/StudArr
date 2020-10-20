@@ -1,0 +1,116 @@
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojResolveAssemblyReference.cache
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.Cache
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\06-ArrayRecords\VB\StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojResolveAssemblyReference.cache
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+U:\SDD\CodeSamples\06-ArrayRecords\VB\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.Cache
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojResolveAssemblyReference.cache
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArrayWithFind\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.Cache
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojResolveAssemblyReference.cache
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+U:\SDD\CodeSamples\07-StudentArrayWithFind\StudArray-Final-WithVerification\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.Cache
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\nevgo\OneDrive - NSW Department of Education and Communities\Code\11-StArrayRec\StArrRec-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\ngoodyer\OneDrive - NSW Department of Education\Code\11-StArrayRec\11-StArrRec-VB-05-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\Callum\Desktop\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\Callum\Desktop\VBWorkingVersions\11-StArrRec-VB-06-02HardCodedRecords\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\Callum\OneDrive - NSW Department of Education\StudArrAllVersionsRepo\11-StArrRec-VB-07-01HardCodedRecords - Copy\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
