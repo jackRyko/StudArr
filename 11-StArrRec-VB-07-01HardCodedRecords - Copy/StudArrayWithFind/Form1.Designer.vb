@@ -158,7 +158,7 @@ Partial Class Form1
         'txtPhone
         '
         Me.txtPhone.Location = New System.Drawing.Point(36, 131)
-        Me.txtPhone.Mask = "(999) 000-0000"
+        Me.txtPhone.Mask = "(99) 0000-0000"
         Me.txtPhone.Name = "txtPhone"
         Me.txtPhone.Size = New System.Drawing.Size(100, 20)
         Me.txtPhone.TabIndex = 5

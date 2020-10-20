@@ -51,6 +51,7 @@
         displayList()
     End Sub
     Private Sub btnAddStud_Click(sender As Object, e As EventArgs) Handles btnAddStud.Click
+        'MsgBox(txtPhone.Text.Length)
         'validate fields before 
         Dim errorFlag As Boolean
         errorFlag = False
@@ -70,9 +71,30 @@
                 End If
             End If
         End If
+
+        If txtPhone.Text.Length <> 14 Then
+            MsgBox("Please enter a valid 10 digit phone number.", MsgBoxStyle.Critical)
+            errorFlag = True
+        End If
+
+        Dim testMark As Single
+        If Single.TryParse(txtAvMk.Text, testMark) = False Then
+            MsgBox("Please input a valid number", MsgBoxStyle.Critical)
+            errorFlag = True
+        Else
+            If testMark < 0 Or testMark > 100 Then
+                MsgBox("Please input a number between 1-100.", MsgBoxStyle.Critical)
+                errorFlag = True
+            End If
+        End If
+
+
+
         If errorFlag = True Then
             Exit Sub
         End If
+
+
 
 
 
