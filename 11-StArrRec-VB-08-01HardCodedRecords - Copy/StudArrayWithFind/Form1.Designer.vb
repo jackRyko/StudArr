@@ -182,6 +182,7 @@ Partial Class Form1
         Me.txtDOB.Name = "txtDOB"
         Me.txtDOB.Size = New System.Drawing.Size(200, 20)
         Me.txtDOB.TabIndex = 2
+        Me.txtDOB.Value = New Date(2003, 1, 1, 0, 0, 0, 0)
         '
         'Form1
         '
