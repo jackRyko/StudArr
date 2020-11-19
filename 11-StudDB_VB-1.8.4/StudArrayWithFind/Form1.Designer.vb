@@ -49,6 +49,8 @@ Partial Class Form1
         '
         'txtFirstName
         '
+        Me.txtFirstName.BackColor = System.Drawing.Color.White
+        Me.txtFirstName.ForeColor = System.Drawing.SystemColors.WindowText
         Me.txtFirstName.Location = New System.Drawing.Point(12, 83)
         Me.txtFirstName.Name = "txtFirstName"
         Me.txtFirstName.Size = New System.Drawing.Size(100, 20)
@@ -271,7 +273,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtFirstName)
         Me.Name = "Form1"
-        Me.Text = "v1.8.3 Student entry form"
+        Me.Text = "v1.8.4 Student entry form"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

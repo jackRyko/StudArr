@@ -1,5 +1,7 @@
 ﻿Public Class Form1
     'set up a record or "class" for a student
+    Public changeback As Boolean
+    Public NotCorrect As Boolean
 
     Class STUDENT
         Public firstname As String
@@ -10,11 +12,14 @@
         Public phoneNo As String
         Public paid As Boolean
     End Class
-    Dim students(20) As STUDENT
+
+    ReadOnly students(20) As STUDENT
     Dim studentCount As Integer = 0
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'allocate memory
+        txtPhone.BackColor = Color.White
+        changeback = True
         For i = 0 To 20
             students(i) = New STUDENT
         Next
@@ -108,95 +113,175 @@
         students(12).paid = False
         'set the student count to the number of students which have been entered
         studentCount = 13
-        displayList()
+        DisplayList()
     End Sub
 
-    Private Sub btnAddStud_Click(sender As Object, e As EventArgs) Handles btnAddStud.Click
+
+    Private Sub txtFirstName_TextChanged(sender As Object, e As EventArgs) Handles txtFirstName.TextChanged 'txtFirstName.Leave
+
         'Validate that the first name field is NOT blank
         If txtFirstName.Text = "" Then
-            MsgBox("Please enter a 'first name'", MsgBoxStyle.Exclamation, "Check First Name field")
+            txtFirstName.BackColor = Color.Red
+            NotCorrect = True
+            changeback = True
+            'System.Threading.Thread.Sleep(500)
+
             'MessageBox.Show("Please enter a 'first name'", "Check First Name field", MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
             txtFirstName.Focus()
+
             Exit Sub
+
         End If
+        txtFirstName.BackColor = Color.White
         'Validate that the first name field is NOT more than 20 characters
         If Len(txtFirstName.Text) > 20 Then
-            MsgBox("Please enter a 'first name' less than 20 characters", MsgBoxStyle.Exclamation, "Check First Name field")
-            txtFirstName.Focus()
+            NotCorrect = True
+            txtFirstName.BackColor = Color.Red
+            changeback = True
+            'System.Threading.Thread.Sleep(1000)
+            'MsgBox("Please enter a 'first name' less than 20 characters", MsgBoxStyle.Exclamation, "Check First Name field")
+            'txtFirstName.BackColor = Color.White
+            MsgBox(changeback)
             Exit Sub
         End If
+        txtFirstName.BackColor = Color.White
+    End Sub
+
+    Private Sub txtLastName_TextChanged(sender As Object, e As EventArgs) Handles txtLastName.TextChanged 'txtLastName.Leave
         'Validate that the last name field is NOT blank
         If txtLastName.Text = "" Then
-            MsgBox("Please enter a 'last name'", MsgBoxStyle.Exclamation, "Check Last Name field")
+            txtLastName.BackColor = Color.Red
+            NotCorrect = True
+            'MsgBox("Please enter a 'last name' less than 20 characters", MsgBoxStyle.Exclamation, "Check Last Name field")
+            changeback = True
             txtLastName.Focus()
             Exit Sub
         End If
+        txtLastName.BackColor = Color.White
         'Validate that the last name field is NOT more than 20 characters
         If Len(txtLastName.Text) > 20 Then
-            MsgBox("Please enter a 'last name' less than 20 characters", MsgBoxStyle.Exclamation, "Check Last Name field")
-            txtLastName.Focus()
+            txtLastName.BackColor = Color.Red
+            changeback = True
+            NotCorrect = True
+            'MsgBox("Please enter a 'last name' less than 20 characters", MsgBoxStyle.Exclamation, "Check Last Name field")
+
             Exit Sub
         End If
+        txtLastName.BackColor = Color.White
+    End Sub
+
+    Private Sub txtDOB_TextChanged(sender As Object, e As EventArgs) Handles txtDOB.TextChanged ', txtDOB.Leave
         'Validate that the DoB field is in date format
         If Not IsDate(txtDOB.Text) Then
-            MsgBox("Please enter in the format 'd/mm/yy'", MsgBoxStyle.Exclamation, "Check Date Of Birth field")
+            txtDOB.CalendarTitleBackColor = Color.Red
+            changeback = True
+            NotCorrect = True
             txtDOB.Focus()
             Exit Sub
         End If
+        txtDOB.BackColor = Color.White
         'Validate that the DoB field is between year 1960 and year 2010
         If Not (txtDOB.Text >= #1/1/1998# AndAlso txtDOB.Text < #1/1/2005#) Then
-            MsgBox("Please enter a DoB between 1998 and 2004 in the format 'd/mm/yy'", MsgBoxStyle.Exclamation, "Check Date Of Birth field")
+            txtDOB.CalendarTitleBackColor = Color.Red
+            'MsgBox("Please enter a DoB between 1998 and 2004 in the format 'd/mm/yy'", MsgBoxStyle.Exclamation, "Check Date Of Birth field")
             txtDOB.Focus()
+            changeback = True
+            NotCorrect = True
             Exit Sub
         End If
+        txtDOB.BackColor = Color.White
+    End Sub
 
+    Private Sub txtGender_TextChanged(sender As Object, e As EventArgs) Handles txtGender.TextChanged ', txtGender.Leave
         'Validate that the gender field holds "m" of "f"
         If Not (LCase(txtGender.Text) = "m" Or LCase(txtGender.Text) = "f") Then
-            MsgBox("Please enter 'f' or 'm' ", MsgBoxStyle.Exclamation, "Check Gender field")
+            txtGender.BackColor = Color.Red
+            changeback = True
+            'MsgBox("Please enter 'f' or 'm' ", MsgBoxStyle.Exclamation, "Check Gender field")
             txtGender.Focus()
+            NotCorrect = True
             Exit Sub
         End If
+        txtGender.BackColor = Color.White
+    End Sub
+
+    Private Sub txtAvMk_TextChanged(sender As Object, e As EventArgs) Handles txtAvMk.TextChanged ', txtAvMk.Leave
         'Validate that the average mark field is a number
         If Not IsNumeric(txtAvMk.Text) Then
-            MsgBox("Please ensure Average Mark is a number", MsgBoxStyle.Exclamation, "Check the Average Mark field")
+            changeback = True
+            txtAvMk.BackColor = Color.Red
+            'MsgBox("Please ensure Average Mark is a number", MsgBoxStyle.Exclamation, "Check the Average Mark field")
             txtAvMk.Focus()
+            NotCorrect = True
             Exit Sub
         End If
+        txtAvMk.BackColor = Color.White
         'Validate that the average mark field is betweem 0 and 100 inclusive
         If Not (txtAvMk.Text >= 0 And txtAvMk.Text <= 100) Then
-            MsgBox("Please ensure Average Mark is between 0 and 100", MsgBoxStyle.Exclamation, "Check the Average Mark field")
+            txtAvMk.BackColor = Color.Red
+            'MsgBox("Please ensure Average Mark is between 0 and 100", MsgBoxStyle.Exclamation, "Check the Average Mark field")
             txtAvMk.Focus()
+            changeback = True
+            NotCorrect = True
             Exit Sub
         End If
+        txtAvMk.BackColor = Color.White
+    End Sub
+
+    Private Sub txtPhone_TextChanged(sender As Object, e As EventArgs) Handles txtPhone.TextChanged ', txtPhone.Leave
         'Validate that the phone # field has 10 digits (in fact 12, with the 2 dashes)
         If Not Len(Trim(txtPhone.Text)) = 12 Then
-            MsgBox("Please enter 10 digits for the phone number", MsgBoxStyle.Exclamation, "Check Phone # field")
+            txtPhone.BackColor = Color.Red
+            'MsgBox("Please enter 10 digits for the phone number", MsgBoxStyle.Exclamation, "Check Phone # field")
             txtPhone.Focus()
+            changeback = True
+            NotCorrect = True
             Exit Sub
         End If
-
-        'place text from text boxes into the array - first students(0), then students(1), students(2) etc
-        students(studentCount).firstname = txtFirstName.Text
-        students(studentCount).lastname = txtLastName.Text
-        students(studentCount).DOB = txtDOB.Text
-        students(studentCount).gender = LCase(txtGender.Text)
-        students(studentCount).avMk = txtAvMk.Text
-        students(studentCount).phoneNo = txtPhone.Text
-        students(studentCount).paid = chkPaid.Checked
-        studentCount += 1
-        'return text boxes to blank ready for next entry
-        txtFirstName.Text = ""
-        txtLastName.Text = ""
-        txtDOB.Text = #1/01/2003#
-        txtGender.Text = ""
-        txtAvMk.Text = ""
-        txtPhone.Text = ""
-        chkPaid.Checked = False
-        displayList()
-
-        txtFirstName.Focus()
+        txtPhone.BackColor = Color.White
     End Sub
-    Private Sub displayList()
+
+    'Private Sub Changecolor()
+    '   MsgBox(changeback)
+    'If changeback = True Then
+    '       txtFirstName.BackColor = Color.White
+    '      txtLastName.BackColor = Color.White
+    '     txtDOB.BackColor = Color.White
+    '    txtGender.BackColor = Color.White
+    '   txtAvMk.BackColor = Color.White
+    '  changeback = False
+    'End If
+
+    'End Sub
+
+    Private Sub btnAddStud_Click(sender As Object, e As EventArgs) Handles btnAddStud.Click
+        If NotCorrect = False Then
+            'place text from text boxes into the array - first students(0), then students(1), students(2) etc
+            students(studentCount).firstname = txtFirstName.Text
+            students(studentCount).lastname = txtLastName.Text
+            students(studentCount).DOB = txtDOB.Text
+            students(studentCount).gender = LCase(txtGender.Text)
+            students(studentCount).avMk = txtAvMk.Text
+            students(studentCount).phoneNo = txtPhone.Text
+            students(studentCount).paid = chkPaid.Checked
+            studentCount += 1
+            'return text boxes to blank ready for next entry
+            txtFirstName.Text = ""
+            txtLastName.Text = ""
+            txtDOB.Text = #1/01/2003#
+            txtGender.Text = ""
+            txtAvMk.Text = ""
+            txtPhone.Text = ""
+            chkPaid.Checked = False
+            DisplayList()
+
+            txtFirstName.Focus()
+        Else
+            NotCorrect = False
+        End If
+
+    End Sub
+    Private Sub DisplayList()
         'clear the list box as it keeps the earlier loop
         lstStud.Items.Clear()
         'loop through the array to print all rows
@@ -209,7 +294,7 @@
         lstStud.SelectedIndex = studentCount - 1
     End Sub
 
-    Private Sub btnFindStud_Click(sender As Object, e As EventArgs) Handles btnFindStud.Click
+    Private Sub BtnFindStud_Click(sender As Object, e As EventArgs) Handles btnFindStud.Click
         If txtLastName.Text = "" Then
             MsgBox("Please add a 'Last Name' to be searched", MsgBoxStyle.Exclamation, "Add search name to 'Last Name'.")
             Exit Sub
@@ -224,7 +309,7 @@
             If students(searchCount).lastname = txtLastName.Text Then
                 foundName = True
             Else
-                searchCount = searchCount + 1
+                searchCount += 1
             End If
 
         End While
@@ -237,7 +322,7 @@
         End If
     End Sub
 
-    Private Sub lstStud_SelectedIndexChanged(sender As Object, e As EventArgs) Handles lstStud.SelectedIndexChanged
+    Private Sub LstStud_SelectedIndexChanged(sender As Object, e As EventArgs) Handles lstStud.SelectedIndexChanged
         txtTextItem.Text = lstStud.SelectedItem
         txtTestIndex.Text = lstStud.SelectedIndex
     End Sub
@@ -245,4 +330,8 @@
     Private Sub FindStudBySurname_Click(sender As Object, e As EventArgs) Handles FindStudBySurname.Click
         MsgBox("This feature is not finished yet as it will be added in a later version", MsgBoxStyle.Information)
     End Sub
+
+    'Private Sub txtFirstName_TextChanged(sender As Object, e As EventArgs) Handles txtFirstName.TextChanged
+
+    'End Sub
 End Class
